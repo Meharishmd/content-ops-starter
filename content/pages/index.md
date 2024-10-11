@@ -60,7 +60,7 @@ sections:
         - type: TextFormControl
           name: name
           label: 'Get a consultant '
-          hideLabel: true
+          hideLabel: false
           placeholder: Your name
           isRequired: true
           width: full
