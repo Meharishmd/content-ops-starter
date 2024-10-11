@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Book a meeting",
-            "altText": "Sign up",
+            "altText": "Book a meeting",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
