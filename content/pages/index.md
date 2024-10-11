@@ -263,13 +263,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
     actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
