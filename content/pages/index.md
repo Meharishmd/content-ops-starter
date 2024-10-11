@@ -7,7 +7,7 @@ sections:
       text: >-
         Innovative, Transformative, Futuristic, Visionary, Disruptive, Tech
         Savvy. 
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: What we do
     text: >+
