@@ -130,7 +130,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/26815-removebg-preview.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
