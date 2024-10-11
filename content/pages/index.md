@@ -143,7 +143,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: Who We Are
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
