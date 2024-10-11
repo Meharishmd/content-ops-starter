@@ -144,7 +144,7 @@ sections:
     badge:
       type: Badge
       label: Who We Are
-      color: text-dark
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
