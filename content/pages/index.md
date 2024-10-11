@@ -235,7 +235,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
