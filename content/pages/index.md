@@ -10,10 +10,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What we do
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Welcome to Meharish Technologies, where innovation meets expertise. We are
+      a dynamic IT Services and Consulting firm dedicated to delivering
+      cutting-edge solutions tailored to your unique business needs. Our team of
+      tech-savvy professionals is committed to providing seamless,
+      transformative, and customer-centric services that empower your business
+      to thrive in today’s ever-evolving digital landscape. Partner with us to
+      unlock the full potential of technology and drive impactful results for
+      your organization.
+
     actions:
       - label: Get started
         altText: ''
