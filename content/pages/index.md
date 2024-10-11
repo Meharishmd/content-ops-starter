@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Custom Web Solutions for Every Business.
+      label: 'We are,'
       color: text-primary
       type: Badge
     elementId: ''
