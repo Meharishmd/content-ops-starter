@@ -73,7 +73,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Contact Number
-          label: Name
+          label: Contact number
           hideLabel: true
           placeholder: Your name
           isRequired: true
