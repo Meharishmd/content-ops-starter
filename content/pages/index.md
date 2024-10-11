@@ -80,7 +80,7 @@ sections:
         - type: TextFormControl
           name: What can we help you with?
           label: Name
-          hideLabel: true
+          hideLabel: false
           placeholder: Your name
           isRequired: true
           width: full
