@@ -74,7 +74,7 @@ sections:
         - type: TextFormControl
           name: Contact Number
           label: Contact number
-          hideLabel: true
+          hideLabel: false
           placeholder: Contact number
           isRequired: true
           width: full
