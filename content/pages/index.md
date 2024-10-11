@@ -6,7 +6,7 @@ sections:
     title:
       text: >-
         Innovative, Transformative, Futuristic, Visionary, Disruptive, Tech
-        Savy 
+        Savvy. 
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
