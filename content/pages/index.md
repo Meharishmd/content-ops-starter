@@ -71,13 +71,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: TextFormControl
-          name: What can we help you with?
-          label: What Can we help you with?
-          hideLabel: false
-          placeholder: Your name
-          isRequired: true
-          width: full
         - type: TextareaFormControl
           name: message
           label: Message
