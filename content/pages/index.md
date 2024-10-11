@@ -119,7 +119,7 @@ sections:
       type: TitleBlock
       text: Who We Are
       color: text-dark
-    subtitle: ''
+    subtitle: A new player in the game!
     text: "We are a passionate and highly dedicated group of talented people striving to give you better solutions to grow your business with the latest in technology.\n\n\_\n\nA fast-growing company, Meharish Technologies aims to become customers’ first choice for a variety of\_[digital services](https://prevaj.com/#services), leveraging cutting-edge\_[technologies](https://prevaj.com/#tech)\_to drive innovation and success.\n\nFor over 12 years we serve clients globally across diverse\_[industries](https://prevaj.com/#industries)\_and have been bringing custom and platform-based solutions to small and mid-sized to large companies\n\nOur clients are different, but they all share the need to have cost effective software solutions built to generate revenue streams, establish communication channels or streamline business operations.\n\n\n\n"
     actions:
       - type: Button
