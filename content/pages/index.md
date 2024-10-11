@@ -134,7 +134,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Why Meharish
+      text: Why Meharish?
       color: text-dark
       styles:
         self:
