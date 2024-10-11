@@ -75,7 +75,7 @@ sections:
           name: Contact Number
           label: Contact number
           hideLabel: true
-          placeholder: Your name
+          placeholder: Contact number
           isRequired: true
           width: full
         - type: TextareaFormControl
