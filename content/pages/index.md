@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Innovative, Transformative, Futuristic, Visionary,  '
+      text: >-
+        Innovative, Transformative, Futuristic, Visionary, Disruptive, Tech
+        Savy 
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
