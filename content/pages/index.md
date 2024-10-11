@@ -59,7 +59,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: 'Get a '
           hideLabel: true
           placeholder: Your name
           isRequired: true
