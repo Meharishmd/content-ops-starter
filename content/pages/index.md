@@ -142,26 +142,101 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: >
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *  
-      *   *   *   *   *   *   *   *   *   <div style="text-align: center">### A
-      Pragmatic Digital Transformation & IT Services company### Fluent in
-      Plain-Speak: No Jargons, Just Clear Communication### Simplifying
-      Complexity: Making IT Solutions Easy to Understand and Implement###
-      Exceeding Expectations: Delivering Results that Surpass 120%### Proven
-      Track Record of Customer Success: Numerous Satisfied Clients###
-      Reliability, Ethics, and Talent: The Pillars of Our Reputation###
-      Long-Term Relationships, Not Short-Term Gains: Building Thriving
-      Partnerships### Customer Growth as Our Core Focus: Your Success Drives Our
-      Actions### Ethical, Top-Notch, and Affordable Partners: Expanding
-      Possibilities Together
+    text: |+
+      *
+          *
+              *
+                  *
+                      *
+                          *
+                              *
+                                  *
+                                      *
+                                          *
+                                              *
+                                                  *
+                                                      *
+                                                          *
+                                                              *
+                                                                  *
+                                                                      *
+                                                                          *
+                                                                              *
+                                                                                  *
+                                                                                      *
+                                                                                          *
+                                                                                              *
+                                                                                                  *
+                                                                                                      *
+                                                                                                          *
+                                                                                                              *
+                                                                                                                  *
+                                                                                                                      *
+                                                                                                                          *
+                                                                                                                              *
+                                                                                                                                  *
+                                                                                                                                      *
+                                                                                                                                          *
+                                                                                                                                              *
+                                                                                                                                                  *
+                                                                                                                                                      *
+                                                                                                                                                          *
+                                                                                                                                                              *
+                                                                                                                                                                  *
+                                                                                                                                                                      *
+                                                                                                                                                                          *
+                                                                                                                                                                              *
+                                                                                                                                                                                  *
+                                                                                                                                                                                      *
+                                                                                                                                                                                          *
+                                                                                                                                                                                              *
+                                                                                                                                                                                                  *
+                                                                                                                                                                                                      *
+                                                                                                                                                                                                          *
+                                                                                                                                                                                                              *
+                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                                                                                      *
+                                                                                                                                                                                                                                                                                                                                                                          *
+                                                                                                                                                                                                                                                                                                                                                                              *
+                                                                                                                                                                                                                                                                                                                                                                                  *
+                                                                                                                                                                                                                                                                                                                                                                                      *
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </div>
     actions: []
     media:
       title: Title of the video
