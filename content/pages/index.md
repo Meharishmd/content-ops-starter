@@ -21,7 +21,7 @@ sections:
       your organization.
 
     actions:
-      - label: Get started
+      - label: Book a meeting
         altText: ''
         url: /
         showIcon: false
