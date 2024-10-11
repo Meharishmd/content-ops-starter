@@ -75,7 +75,7 @@ sections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: What can we help you with?
           width: full
       submitButton:
         type: SubmitButtonFormControl
