@@ -135,7 +135,7 @@ sections:
           - pr-3
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: What We Do!
       color: text-dark
       styles:
         self:
