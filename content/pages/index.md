@@ -41,7 +41,7 @@ sections:
         type: Link
     badge:
       label: 'We are,'
-      color: text-primary
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
