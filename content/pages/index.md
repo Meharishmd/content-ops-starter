@@ -134,7 +134,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Why Meharish
       color: text-dark
       styles:
         self:
