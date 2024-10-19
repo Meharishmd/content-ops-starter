@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Call us now",
+            "label": "Contact Us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
