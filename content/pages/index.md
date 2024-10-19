@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Innovative, Transformative, Futuristic, Visionary, Disruptive, Tech
-        Savvy. 
+      text: ''
       color: text-neutral
       type: TitleBlock
     subtitle: What we do
