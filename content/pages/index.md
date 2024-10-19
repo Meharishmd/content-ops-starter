@@ -95,7 +95,9 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-feature1.svg
+      url: >-
+        /images/Green and White Illustrative Digital Marketing Agency Banner
+        (1).png
   - type: DividerSection
     title: Divider
     elementId: ''
