@@ -7,7 +7,7 @@ sections:
       text: We Are
       color: text-neutral
       type: TitleBlock
-    subtitle: What we do
+    subtitle: ''
     text: >+
       Welcome to Meharish Technologies, where innovation meets expertise. We are
       a dynamic IT Services and Consulting firm dedicated to delivering
