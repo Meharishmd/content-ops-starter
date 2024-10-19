@@ -28,10 +28,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    badge:
-      label: 'We are,'
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
