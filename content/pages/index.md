@@ -95,6 +95,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/abstract-feature1.svg
   - type: DividerSection
     title: Divider
     elementId: ''
