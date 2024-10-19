@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'We Are '
+      text: >-
+        We Are Innovative, Transformative, Futuristic, Visionary, Disruptive,
+        Tech Savvy. 
       color: text-neutral
       type: TitleBlock
     subtitle: What we do
